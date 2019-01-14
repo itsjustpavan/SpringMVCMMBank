@@ -55,15 +55,15 @@ a:hover {
 
 
 
-				<b> <a href="addNewAccountForm" target="_self">Add New Account</a></b> 
-				<b><a href="delete" target="_self"> Delete account </a></b>
-				<b><a href="search" target="_self"> Search an account </a></b>
-				<b><a href="getAll" target="_self"> View all customers </a></b>
-				<b><a href="checkbalance" target="_self"> Check Current Balance </a></b>
-				<b><a href="update" target="_self"> Update Customer Details</a></b>
-				<b><a href="withdraw" target="_self"> Withdraw form</a></b> 
-				<b><a href="deposit" target="_self">Deposit form</a></b> 
-				<b><a href="transfer" target="_self">Transfer Funds</a></b>
+		<b> <a href="addNewAccountForm" target="_self">Add New Account</a></b>
+		<b><a href="delete" target="_self"> Delete account </a></b> <b><a
+			href="search" target="_self"> Search an account </a></b> <b><a
+			href="getAll" target="_self"> View all customers </a></b> <b><a
+			href="checkbalance" target="_self"> Check Current Balance </a></b> <b><a
+			href="update" target="_self"> Update Customer Details</a></b> <b><a
+			href="withdraw" target="_self"> Withdraw form</a></b> <b><a
+			href="deposit" target="_self">Deposit form</a></b> <b><a
+			href="transfer" target="_self">Transfer Funds</a></b>
 
 	</nav>
 	<section>

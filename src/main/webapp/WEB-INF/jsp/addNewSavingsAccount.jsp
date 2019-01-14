@@ -5,16 +5,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="addnewSavingsAccountForm" >
-<label> Account Holder Name </label>
-<input type="text" name="account_hn"> <br> <br>
-<label> Account type :</label> yes
-<input type="radio" name="salary"> no 
-<input type="radio" name="salary"> <br>
-<label> Account Balance : </label>
-<input type="number" name="accountbalance"><br> <br>
-<input type="submit" name="submit" value="Submit">
-</form>
-<br>
+	<form action="addnewSavingsAccountForm">
+		<label> Account Holder Name </label> <input type="text"
+			name="account_hn"> <br> <br> <label>
+			Account type :</label> yes <input type="radio" name="salary"> no <input
+			type="radio" name="salary"> <br> <label> Account
+			Balance : </label> <input type="number" name="accountbalance"><br>
+		<br> <input type="submit" name="submit" value="Submit">
+	</form>
+	<br>
 </body>
 </html>
